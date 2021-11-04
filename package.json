@@ -1,0 +1,19 @@
+{
+    "name": "amazon-scrapper",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js",
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "env": "^0.0.2",
+        "express": "^4.17.1",
+        "nodemon": "^2.0.14",
+        "request": "^2.88.2",
+        "request-promise": "^4.2.6"
+    }
+}
